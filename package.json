@@ -1,7 +1,7 @@
 {
   "name": "node_do_zero",
   "version": "1.0.0",
-  "main": "create-table.js",
+  "main": "server.js",
   "type": "module",
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4",
